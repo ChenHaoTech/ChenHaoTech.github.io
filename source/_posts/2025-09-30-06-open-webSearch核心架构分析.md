@@ -1,14 +1,24 @@
 ---
 title: "open-webSearch - 核心架构深度分析"
-date: 2025-09-30 19:41:42
+date: 2025-09-30 17:40:00
+updated: 2025-09-30 19:45:46
 categories:
-  - 技术文章
+  - 其他
 tags:
-  - AI架构
-  - 技术分享
+  - repository-analysis
+  - architecture-analysis
+  - file-cluster
+  - MCP
+  - 双模式架构
+  - 搜索引擎
+permalink: /2025/09/30/open-websearch-核心架构深度分析/
 author: 陈浩
-description: "专业技术分享：open-webSearch - 核心架构深度分析"
+description: "open-webSearch - 核心架构深度分析..."
+date_source: created
+original_path: "../public/06-open-webSearch核心架构分析.md"
 ---
+
+
 
 # open-webSearch - 核心架构深度分析
 
